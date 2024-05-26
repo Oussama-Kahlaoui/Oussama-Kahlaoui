@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <%= Oussama.Kahlaoui %></h1>
 <img src="/oussama_banner.gif"
-<h3 align="center">A passionate Web Developer Full Stack</h3>
+<h3 align="center" style="font-size: 30; font-style: italic;">A passionate Web Developer Full Stack</h3>
 <img align="right" alt="Coding" width="400" src='https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif'
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussama-kahlaoui&label=Profile%20views&color=0e75b6&style=flat" alt="oussama-kahlaoui" /> </p>
