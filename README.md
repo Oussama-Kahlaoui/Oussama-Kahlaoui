@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm <%= Oussama.Kahlaoui %></h1>
-  <img align="right" alt="Coding" width="336" src='https://www.horizont.com.hr/posao/backend-developer.gif'
-
+<img src="/oussama_banner.gif"
 <h3 align="center">A passionate Web Developer Full Stack</h3>
 <img align="right" alt="Coding" width="400" src='https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif'
 
