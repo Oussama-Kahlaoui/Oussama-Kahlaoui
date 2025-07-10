@@ -72,11 +72,14 @@
 
 ### 📊 GitHub Stats
 
-<p>
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=oussama-kahlaoui&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=oussama-kahlaoui&show_icons=true&locale=en" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oussama-kahlaoui&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oussama-kahlaoui&" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oussama-kahlaoui&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oussama-kahlaoui&theme=default" alt="GitHub Streak" />
 </p>
