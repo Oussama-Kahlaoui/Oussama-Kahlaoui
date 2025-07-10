@@ -76,7 +76,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussama-kahlaoui&layout=compact&theme=default" alt="Top Languages" width="400" />
   <img src="https://github-readme-stats.vercel.app/api?username=oussama-kahlaoui&show_icons=true&theme=default" alt="GitHub Stats" width="400" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=oussama-kahlaoui&theme=default" alt="GitHub Streak" />
-</p>
