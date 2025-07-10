@@ -85,5 +85,6 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oussama-kahlaoui&theme=default" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=oussama-kahlaoui&theme=default" alt="GitHub Streak" />
 </div>
+
