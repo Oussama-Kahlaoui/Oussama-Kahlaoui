@@ -50,7 +50,7 @@
 
 #### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=mongodb,supabase,firebase,mysql,postgres" />
 </p>
 
 #### 📱 Mobile
