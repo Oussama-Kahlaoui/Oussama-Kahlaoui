@@ -4,7 +4,9 @@
   <img src="/oussama_banner.gif" alt="banner" width="100%" />
 </p>
 
+<h3 align="center" style="font-size: 30px; font-style: italic;">A passionate Full Stack Web Developer & Mobile </h3>
 <h3 align="center" style="font-size: 30px; font-style: italic;">A passionate Full Stack Web Developer</h3>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=oussama-kahlaoui&label=Profile%20views&color=0e75b6&style=flat" alt="oussama-kahlaoui" />
