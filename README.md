@@ -4,7 +4,7 @@
   <img src="/oussama_banner.gif" alt="banner" width="100%" />
 </p>
 
-<h3 align="center" style="font-size: 30px; font-style: italic;">A passionate Full-Stack Developer & Mobile 💻​ 📱​</h3>
+<h3 align="center" style="font-size: 30px; font-style: italic;">A passionate Full-Stack & Mobile Developer 💻​ 📱​</h3>
 <h3 align="center" style="font-size: 30px; font-style: italic;">Developer by passion, builder by profession 🚀</h3>
 
 
