@@ -4,8 +4,8 @@
   <img src="/oussama_banner.gif" alt="banner" width="100%" />
 </p>
 
-<h3 align="center" style="font-size: 30px; font-style: italic;">A passionate Full Stack Web Developer & Mobile </h3>
-<h3 align="center" style="font-size: 30px; font-style: italic;">A passionate Full Stack Web Developer</h3>
+<h3 align="center" style="font-size: 30px; font-style: italic;">A passionate Full-Stack Developer & Mobile 💻​ 📱​</h3>
+<h3 align="center" style="font-size: 30px; font-style: italic;">Developer by passion, builder by profession 🚀</h3>
 
 
 <p align="left">
@@ -40,7 +40,7 @@
 
 #### 🖥️ Front-End
 <p>
-  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,vite,jquery,cs,html,css,tailwind,git,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,vue,jquery,html,css,tailwind,git,bootstrap" />
 </p>
 
 #### 🔧 Back-End
@@ -51,6 +51,11 @@
 #### 🗄️ Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres" />
+</p>
+
+#### 📱 Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter" />
 </p>
 
 #### 🧪 Testing
