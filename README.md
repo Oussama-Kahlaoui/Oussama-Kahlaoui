@@ -58,6 +58,12 @@
   <img src="https://skillicons.dev/icons?i=flutter" />
 </p>
 
+#### ⚙️​ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+</p>
+
 #### 🧪 Testing
 <p>
   <img src="https://skillicons.dev/icons?i=jest" />
