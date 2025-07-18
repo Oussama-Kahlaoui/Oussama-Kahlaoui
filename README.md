@@ -55,7 +55,7 @@
 
 #### 📱 Mobile
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
 </p>
 
 #### ⚙️​ Tools
